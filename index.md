@@ -46,7 +46,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <div class="embed-container">
   <iframe
       src="https://youtu.be/TojNUorxNjE"
-      width="640"
+      width="560"
       height="340"
       frameborder="0"
       allowfullscreen="">
