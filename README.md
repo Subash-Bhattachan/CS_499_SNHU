@@ -1,1 +1,1 @@
-# CS_499_SNHU.github.io
+# CS_499_SNHU
