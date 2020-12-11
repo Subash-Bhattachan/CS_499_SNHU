@@ -46,10 +46,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 youtubeId: TojNUorxNjE
 ---
 ### Code Review
-{% include youtubePlayer.html id=page.youtubeId %}
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TojNUorxNjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubePlayer.html id="TojNUorxNjE" %}
 
 
 
