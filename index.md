@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the ePortfolio of Subash Bhattachan 
 
 You can use the [editor on GitHub](https://github.com/Subash-Bhattachan/CS_499_SNHU.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
