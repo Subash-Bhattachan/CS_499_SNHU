@@ -84,6 +84,25 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Enhancement Two
 
+A. Briefly describe the artifact. What is it? When was it created? 
+The artifact chosen for Enhancement Two: Algorithms and Data Structure is RESTful (API) web-based protocol from CS 340: Advanced Programming Concepts. This framework was here enabled with specific CRUD functionality and is tested and validated by using URIs linked in the prompt. Also, a web service application was developed to implement the RESTful API for a MongoDB database and this involved some advanced querying. 
+
+B. Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in algorithms and data structure? How was the artifact improved?
+Making a RESTful API grew my interest to know more about how APIs developed by other resources would function and what kind of benefits can one take out of them. I selected this artifact because as a computer science student, I got inspired to explore further on this whole idea of creating API artifact and see now if I can use freely available APIs and independently make any application that can be of some use to general people. Though I did mention in my first refinement plan of displaying visual information through the application designed but had to scale back after learning that it might require some dedicated studying and application development planning to add the visual factor to the whole presentation of database extracted from API. Hopefully this will be my future project I will pursue later in future.
+For this enhancement plan, I wrote the code in Python with various functionalities that were inspired from CRUD functionality in a developed RESTful API framework and integrated two different APIs to offer two options so as to display the latest information regarding COVID-19 virus to the users. Instead of MongoDB, here this application uses the sea of information offered by the API’s to bring forward the requested information. The specific components of the artifact that showcase my skills and abilities in algorithms and data structure would be the strategies employed to make others’ API work to my desire. As the algorithms used to make the most out of a free API (or data structure) are different than what was used with RESTful API for CS 340, I believe they will successfully highlight my achieved skills and abilities in algorithms and data structure in the process.
+
+C. Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
+I had started this enhancement with an objective to expand the complexity to the artifact RESTful API or to the whole concept of building an API and hopefully I have tried my best to meet the course objectives through this enhancement I am proposing. Here in this case, I believe not only have I been able to expand the complexity by using completely different data structures and algorithms for the artifact I chose but also I have tried to bring forth some fruitful usage to general public through the application designed.
+
+UPDATES:
+Following are the screenshot of the code snippets in Python and the compiled code in python shell. The API’s have made it easier and efficient to get the data from anywhere in the world and around the United States quite effortlessly. My understanding of algorithms and data structures got much stronger and informed after making this application. Hopefully the next step in future is to make this application much portable in apps format. I may need more investigations and research to go in that direction. 
+
+Professor Conlan, 
+I would appreciate your feedbacks as usual.
+Thank you.
+
+
+
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Enhancment Three
