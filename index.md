@@ -45,9 +45,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Code Review
 <div class="embed-container">
   <iframe
-      src="https://www.youtube.com/watch?v=TojNUorxNjE&t=9s"
-      width="700"
-      height="480"
+      src="https://youtu.be/TojNUorxNjE"
+      width="640"
+      height="340"
       frameborder="0"
       allowfullscreen="">
   </iframe>
