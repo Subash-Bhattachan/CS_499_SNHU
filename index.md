@@ -13,6 +13,30 @@ Some of the worth mentioning classes that came along my way are IT 145: Foundati
 
 With time and my studying at SNHU, my thinking about my career plan has evolved for sure. Now I have realized that there are so many routes that as a computer science professional I can take and not be restricted or limited to one area of specialization only. With so much strength and skills that I have garnered from taking several classes, some of which I have discussed in the above paragraphs, I feel I am now prepared to enter the professional scene of the computer science field and contribute in the most productive way possible. Though I intend to pursue my career choices in computer graphics direction, Artificial Intelligence, Game Design and Software Engineering also fascinate my imaginations a lot. I hope in future, I will be able to somehow combine my love for creative expositions with programming skills in one or couple of these specialization areas of Computer Science. 
 
+# Summary of the artifacts chosen
+Controlling the ram head through GUI 
+
+For the Software Design and Engineering category, I have chosen to go with a project from the course CS 330: Computational Graphics and Visualization. The project for this class ended with writing code for the ram head with a texture and giving some control to users to zoom in and out and turn horizontally and vertically. My enhancement plan is to develop GUI so to display to users the instructions to maneuver around the ram head and the settings to adjust the position and the rotational degree of the head as well. The intent is to make the codes look less intimidating but more playful for users with non-technical background. 
+
+The enhancement plan demonstrates the gained skills to use innovative techniques and tools to implement in the field of computer graphics, the area of specialization that I am planning to go for in future. The outcome these skills align to is a display of an attempt to expand on a project’s complexity by adding further functionalities via GUI to control the ram head. 
+
+------------------------------------------------------- 
+
+Creating an application using a different API 
+
+For the Algorithms and Data Structure category, I have decided to explore the concepts of making a RESTful API from the course CS 340: Advanced Programming Concepts. This project ended with making a RESTful (API) based protocol that was enabled with specific CRUD functionalities. The enhancement plan I am proposing in my portfolio is to explore and use other freely available APIs such as COVID-19 tracking API to create an application that would display visual information if not data information regarding the status of COVID cases all over the world and in the states of USA in this trying time. This is achieved by writing source codes in Python that would make use of two API’s available online to create an application of some use. 
+
+The enhancement plan demonstrates the skills to solve a given problem using algorithmic principles and computer science practices. These skills in turn align to course outcomes such as an attempt to improve efficiency of the chosen artifact or the concepts behind API in this case by using a different algorithm and the free API created by other resources. 
+
+------------------------------------------------------- 
+
+Creating a graphical database 
+
+For the Database category, I chose the idea of MongoDB from the course CS 340: Advanced Programming Concepts. All the databases used for this class were not graphical at all with lot of them having readability factor almost non-existent. My intended plan is to explore a way to create a visual display of a database that has been used for this class. This is an attempt to make a huge database look much easier for interpretation and analysis.  
+
+The enhancement plan illustrates the skills to explore the techniques and tools that help implement computer solutions and help accomplish industry-specific goals. The outcome these skills align to is the presentation of a JSON database in a graphical format using a different tool and a programming language than what were used previously for the class.  
+
+
 
 You can use the [editor on GitHub](https://github.com/Subash-Bhattachan/CS_499_SNHU.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
