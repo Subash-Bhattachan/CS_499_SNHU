@@ -101,6 +101,10 @@ Professor Conlan,
 I would appreciate your feedbacks as usual.
 Thank you.
 
+D. Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+This is the first time I am making a simple application of some use while using the freely available API on the internet. The process left me thinking more about a lot of other APIs that I may have skipped or missed exploring. The experience taught me that the sky is the limit to what can be done with any API that are just thrown to us at disposal. 
+The challenges I faced while making this simple application was trying to get hold of the appropriate API that can be used in my application. There were several APi’s being offered online that are tracking COVID-19 cases in their own set variables, so it was a struggle for me to get the right API that I can use to create the application I was planning. Some APi’s demand time and understanding to learn how to work around them, and some even required money, but finally I was able to use two of them that met my specifications of the application. Also, I was planning to make a web application somewhere in the line of apps on mobile cell phones, but in the middle, I realized that I have to spend much time to understand the various technical details to make this application web based, but with whatever work I was able to accomplish making it a computer application, I feel motivated to keep working on this application to convert it to a platforms- friendly one and make it more available for everybody meaning even for the audience who are not from the computer science field or technical background. 
+
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
