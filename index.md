@@ -110,7 +110,54 @@ The challenges I faced while making this simple application was trying to get ho
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Enhancment Three
-This is where my third project lives.
+A. Briefly describe the artifact. What is it? When was it created? 
+The artifact chosen for Enhancement Three: Databases is MongoDB concepts from CS 340: Advanced Programming Concepts. The artifact precisely is the ‘city_inspections.json’ file that was used extensively throughout the term along with other JSON files to carry out various exercises. Below is a glimpse of how it looked online before we tried to make it readable by querying through Mongo in the command prompt. 
+
+B. Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved? 
+The compelling reason I included this artifact in my ePortfolio was to see if I can create a ‘graphical database’ of a JSON file that I have used for the MongoDB projects in the class CS 340. All the databases that were used for this class were not visual, with some of them so huge that the readability factor was almost nonexistent, unless one writes some intelligent queries. My intended enhancement plan here is to present graphical displays of a JSON database that I have used for the MongoDB projects in this class. It is also to make the huge database look visually easier for interpretation and analysis by using a different tool and a language than what were used earlier for the class.
+The specific components of the artifact that showcase my skills and abilities in software development would be the exploration and implementation of a previous class project in a different application and a programming language. Hopefully, they will highlight the gained abilities to explore the different potential techniques and tools to help reach the computer solutions and accomplish industry-specific goals in my future ventures. 
+Here, I am using a different application called ‘neo4j’, that is a graph database management system developed by Neo4j Inc. and am also using the Cypher query language (CQL) to query through the database to display the given data in graphical formats.
+So, in order to work on the artifact enhancement, first I downloaded the said software, neo4j and installed the related APOC (Awesome Procedures for Cypher) library and also learnt some basics of Cypher to write queries. I then focused my attention on this specific part of the artifact as shown below, where I am writing a query in Mongo to lay out the details of the businesses, who belong to the same zip code 11242 of New York state.
+
+I carried out numerous queries in neo4j (Please find attached with the document the history of queries written in neo4j in note pad) and hence reached some graphical representations as below. The circles represent the nodes that represent the entities, the first ones created are for the businesses in NY. Each business node, when clicked would reveal the properties such as id, certificate_number, date and address. There are nodes for sector, result and zip entities as well. Relationships between these nodes are shown by the arrows that connect the created nodes in the space. Relationships organize the nodes into structures that can resemble a list, a tree, or a map.
+
+So, in the above scene from the neo4j interface,  there are: 
+# 5 business nodes in red color
+# 4 result nodes in green
+# 2 sector nodes in brown
+# 1 zip node in pink
+
+Relationship types are shown by terms such as 
+“BELONGS_TO”
+“RESULTED_TO”, and 
+“IS_OF_TYPE”. 
+The graphical representation of the database here shows that all 5 businesses belong to the same zip code, but they share different relationships with the results and the sector types they pertain to. Extending and easing the nodes showcase the relationships between the various nodes/ entities in quite a lucid way, as seen in the graphic below.
+
+After looking at the above structural display of nodes, it is evident that it is so much easier to deduce information out of the graphical database right away. Visuals always help as they are less intimidating than the humongous collection of entities and their properties like seen in the almost every JSON file. In the case above, now one can see the names of all the five businesses that belong to the same zip number 11242 and their respective information in terms of entities such as sector and result all at the same time. I believe, this is how the chosen artifact has been improvised here in this case. 
+
+C. Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans? 
+Through this enhancement project, I had set course objectives to give the graphical flavor to the otherwise intimidating database that we usually work with. While conducting the enhancement process, I was able to understand the concepts behind the neo4j application and the query commands in CQL that I have used, though there is still a lot one can learn, do and achieve if you have full control over the application tool and the language. Consequently, I was able to turn the previously used database to much graphical and visible focusing on a component picked from the artifact. So, to evaluate, I would say I have tried my best to meet the course objectives that I have planned to meet with this enhancement.
+
+
+UPDATES:
+# Making a graphical database has many advantages to talk about. Now it is easier to query and visually ensure the correctness of the code as well. An example, now one can see the visual node itself and the result in table format like in SQL as well, to make sure the code is right, and the query result is correct. Please see the query written after neo4j$ prompts on the top.
+
+# It is also easier now to focus on any distinct nodes and the relationships they share in the mammoth sea of nodes and relationships. This can quickly derive visual information right away for the concerned parties. While SQL is about rows and columns with a lot of information in between lines, neo4j is about giving away prompt information through intelligent queries written. In the screenshot below, we can see that there is query written to know what kind of sector the business belongs to and what is the result of the business all at the same time. This is just a small example of how we can get visual information about any business in a JSON file quite easily in neo4j. 
+D. Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face? 
+CQL is a vast patterns-based language, just like SQL and it will take some time and motivation for anybody to master the full control over this language. The neo4j application is not as complex as it may seem from outside, but the intricacies of the Cypher language were. Personally, it was a big learning experience for me to go through this process of enhancing the database artifact. I think I attempted to achieve something that may have taken some full month’s long training maybe, as during the process, I was still not clear on a lot of concepts, but I tried and stepped onto the areas that I have never been to and now am offering some work for reviews. Exploring neo4j and Cypher language for this enhancement taught me that many times, we have to change our perceptions and work strategies to learn something new and gain knowledge to compare the results. 
+Making graphical databases excited me when I saw it happen on screen for the first time. I got quite fascinated to research more on this area and see if I can create some future projects myself, such as creating some kind of database on my family tree or something of that kind.
+Challenges I faced:
+# There are instances in the project when the same business names are repeating such as NZE CORP. and SHARDA OFFICE SUPPLIES INC., maybe it is the same owner registering the same  business names more than once in the NY city. I could establish the businesses as nodes with the same names, but when it came to setting properties such as ID or certificate number, the system would get confused and kept assigning the change to every business with the same name, but this was not what I would want to happen because though some names were the same, their properties varied. I researched online for solutions to this issue but could not find any defined solutions as such, so I finally tweaked the names of the businesses by adding 1 or 2 to their ends. I am sure, there is a way to work around this ailing problem, but after I sensed I was spending much time on it, I had to give in for the modifications in the names as a fix.
+# As I got curious to know how a big database such as city_inspections.json would work in neo4j, I started exploring this database as a whole to see if I can create some interesting graphics with full of information. I loaded the ‘city_inspections.json’ file from its GitHub location and I wrote queries in Cypher to output the intended actions in graphical versions.  Here, something different was being done, because the JSON file was being loaded to neo4j to bring in all the pre-made nodes and relationships, which was quite opposite than the first case when I am creating the nodes and their relationship myself from the data queried in Mongo.
+
+After importing the JSON file and writing the queries as seen above, I was able to create the nodes for business, sector, result and their inter relationship for every single business, but I faced a major problem when I could not create the extended relationships among all 300 businesses via their sectors and results all at the same time. While I could create the visible display of all business nodes and the relationships with sectors and results in NY but could not show the interconnection the business nodes share with one another via the sectors of the businesses and the results they received. The result, one can see a lot of repeated and redundant entities floating around, such as Home Improvement node, No Violation Issued node etc. when one single node could have replaced the many duplicates. The graphic does not look like a tree or a map but instead looks like separate floating coat hangers in space. 
+
+
+I intend to keep working at it in future. Hopefully, I would get the right picture that looks well justified. 
+
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
