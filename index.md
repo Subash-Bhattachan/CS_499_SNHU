@@ -74,7 +74,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```c++
 
 //glfwMakeContextCurrent(window);
 if (!glfwInit()) {exit(EXIT_FAILURE);}
