@@ -146,6 +146,128 @@ For this enhancement plan, I wrote the code in Python with various functionaliti
 
 Following are the screenshot of the code snippets in Python and the compiled code in python shell. The API’s have made it easier and efficient to get the data from anywhere in the world and around the United States quite effortlessly. My understanding of algorithms and data structures got much stronger and informed after making this application. Hopefully the next step in future is to make this application much portable in apps format. I may need more investigations and research to go in that direction. 
 
+```python
+
+import requests
+
+
+# to get information about the international country
+def by_country():
+    name = input('Enter country: ')
+
+    # url address of the API in question concatenated with the name of the country
+    url = 'https://coronavirus-19-api.herokuapp.com/countries/' + (name)
+    # Sending http request to get the data above into python script
+    res = requests.get(url)
+
+    # to get the data in JSON format
+    data = res.json()
+
+    #to get the desired data/ individual elements from the data
+    cases = data['cases']
+    recovered = data['recovered']
+    active = data['active']
+    critical = data['critical']
+    deaths = data['deaths']
+
+    todayCases = data['todayCases']
+    todayDeaths = data['todayDeaths']
+
+
+    print()
+    print('Total Cases : {}'.format(cases))
+    print('Total recovered : {}'.format(recovered))
+    print('Total active : {}'.format(active))
+    print('Total critical : {}'.format(critical))
+    print('TOtal deaths : {}'.format(deaths))
+    print()
+    print('Cases registered today : {}'.format(todayCases))
+    print('Deaths registered today : {}'.format(todayDeaths))
+
+
+
+
+# to get information of the different states in USA itself
+def by_USstate():
+    state = input('Enter the state in USA: ')
+
+    # url address of the API in question formatted with the state of the country
+    url = 'https://api.covidtracking.com/v1/states/{0}/current.json'.format(state)
+
+    # Sending http request to get the data above into python script
+    res = requests.get(url)
+
+    # to get the data in JSON format
+    data = res.json()
+
+    #to get the desired data/ individual elements from the data
+    date = data['date']
+    total = data['total']
+    recovered = data['recovered']
+    hospitalized = data['hospitalized']
+    hospitalizedIncrease = data['hospitalizedIncrease']
+    death = data['death']
+    deathIncrease = data['deathIncrease']
+
+    hospitalizedCurrently = data['hospitalizedCurrently']
+    inIcuCurrently = data['inIcuCurrently']
+    onVentilatorCurrently = data['onVentilatorCurrently']
+
+
+    print()
+    print('Date of the published data : {}'.format(date))
+    print('Total Cases : {}'.format(total))
+    print('Total recovered : {}'.format(recovered))
+    print('Total hospitalized : {}'.format(hospitalized))
+    print('Total hospitalized increase : {}'.format(hospitalizedIncrease))
+    print('Total deaths : {}'.format(death))
+    print('Total increase in deaths : {}'.format(deathIncrease))
+    print()
+    print('Total hospitalized today : {}'.format(hospitalizedCurrently))
+    print('Total in ICU today : {}'.format(inIcuCurrently))
+    print('Total on ventilator today : {}'.format(onVentilatorCurrently))
+
+
+def main():
+    print('Welcome.')
+    print('This application uses two specific APIs to bring forth to you,')
+    print('the information regarding COVID-19 status around us.')
+        
+    
+    choice = ''
+
+    while(choice != '3'):
+        print()
+        print('1. Get data by country')
+        print('2. Get data by US state')
+        print('3. Exit')
+        print()
+
+        choice = input('Enter your choice : ')
+        
+            
+        if choice == '1':
+            by_country()
+            
+        elif choice == '2':
+            by_USstate()        
+            
+        elif choice == '3':
+            print('Bye.')
+
+        else:
+            print('Try again.')
+
+    print('Thank you.')
+
+
+if __name__=='__main__':
+    main()
+
+
+```
+
+
 ![1](https://user-images.githubusercontent.com/73665341/101971271-1da4be80-3bfe-11eb-951b-4c101bde431e.JPG)
 
 ![2](https://user-images.githubusercontent.com/73665341/101971274-20071880-3bfe-11eb-89e7-7ef58f230a7d.JPG)
