@@ -161,11 +161,11 @@ After looking at the above structural display of nodes, it is evident that it is
 
 
 UPDATES:
-- Making a graphical database has many advantages to talk about. Now it is easier to query and visually ensure the correctness of the code as well. An example, now one can see the visual node itself and the result in table format like in SQL as well, to make sure the code is right, and the query result is correct. Please see the query written after neo4j$ prompts on the top.
+* Making a graphical database has many advantages to talk about. Now it is easier to query and visually ensure the correctness of the code as well. An example, now one can see the visual node itself and the result in table format like in SQL as well, to make sure the code is right, and the query result is correct. Please see the query written after neo4j$ prompts on the top.
 
 ![12](https://user-images.githubusercontent.com/73665341/101972528-e2f15500-3c02-11eb-9714-78937979b0a3.JPG)
 
-- It is also easier now to focus on any distinct nodes and the relationships they share in the mammoth sea of nodes and relationships. This can quickly derive visual information right away for the concerned parties. While SQL is about rows and columns with a lot of information in between lines, neo4j is about giving away prompt information through intelligent queries written. In the screenshot below, we can see that there is query written to know what kind of sector the business belongs to and what is the result of the business all at the same time. This is just a small example of how we can get visual information about any business in a JSON file quite easily in neo4j. 
+* It is also easier now to focus on any distinct nodes and the relationships they share in the mammoth sea of nodes and relationships. This can quickly derive visual information right away for the concerned parties. While SQL is about rows and columns with a lot of information in between lines, neo4j is about giving away prompt information through intelligent queries written. In the screenshot below, we can see that there is query written to know what kind of sector the business belongs to and what is the result of the business all at the same time. This is just a small example of how we can get visual information about any business in a JSON file quite easily in neo4j. 
 
 ![16](https://user-images.githubusercontent.com/73665341/101972997-04524100-3c03-11eb-928a-93bb87621d81.JPG)
 
