@@ -76,60 +76,60 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 
-	//glfwMakeContextCurrent(window);
-	if (!glfwInit()) {exit(EXIT_FAILURE);}
+//glfwMakeContextCurrent(window);
+if (!glfwInit()) {exit(EXIT_FAILURE);}
 
-	// Setup Dear ImGui context
-	IMGUI_CHECKVERSION();
+// Setup Dear ImGui context
+IMGUI_CHECKVERSION();
 
-	ImGui::CreateContext();
-	ImGuiIO& io = ImGui::GetIO(); (void)io;
-	// Setup platform/ Renderer bindings
+ImGui::CreateContext();
+ImGuiIO& io = ImGui::GetIO(); (void)io;
 
-	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "OpenGL", NULL, NULL);
+// Setup platform/ Renderer bindings
+GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "OpenGL", NULL, NULL);
 
-	// Initializing
-	ImGui_ImplGlfw_InitForOpenGL(window, true);
-	ImGui_ImplOpenGL3_Init("#version 130");
-	// Setup Dear ImGui style
-	ImGui::StyleColorsDark();
+// Initializing
+ImGui_ImplGlfw_InitForOpenGL(window, true);
+ImGui_ImplOpenGL3_Init("#version 130");
+// Setup Dear ImGui style
+ImGui::StyleColorsDark();
 
-	// loop until the user closes the window
-	while (!glfwWindowShouldClose(window))
-	{
-		glfwPollEvents();
-		glClearColor(0.45f, 0.55f, 0.6f, 1.00f);
-		glClear(GL_COLOR_BUFFER_BIT);
+// loop until the user closes the window
+while (!glfwWindowShouldClose(window))
+{
+	glfwPollEvents();
+	glClearColor(0.45f, 0.55f, 0.6f, 1.00f);
+	glClear(GL_COLOR_BUFFER_BIT);
 
-		//feed inputs to dear imgui, start new frame
-		ImGui_ImplOpenGL3_NewFrame();
-		ImGui::NewFrame();
+	//feed inputs to dear imgui, start new frame
+	ImGui_ImplOpenGL3_NewFrame();
+	ImGui::NewFrame();
 
-		// rendering a simple GUI that offers control to users (over the ram head)
-		ImGui::Begin("Ram Head Rotation/ Position");
-		ImGui::Text("Hello, press the ALT key and left mouse button to rotate" 
-			    "the ram head horizontally and ALT key and right mouse"
-			    "button to zoom in and out.");
+	// rendering a simple GUI that offers control to users (over the ram head)
+	ImGui::Begin("Ram Head Rotation/ Position");
+	ImGui::Text("Hello, press the ALT key and left mouse button to rotate" 
+		    "the ram head horizontally and ALT key and right mouse"
+	            "button to zoom in and out.");
 
-		const float PI = 3.1415927;
-		static float rotation = 0.0;
-		ImGui::SliderFloat("Rotation", &rotation, 0, 2 * PI);
+	const float PI = 3.1415927;
+	static float rotation = 0.0;
+	ImGui::SliderFloat("Rotation", &rotation, 0, 2 * PI);
 
-		static float translation[] = {0.0, 0.0};
-		ImGui::SliderFloat2("Position", translation, -1.0, 1.0);
-		ImGui::End();
+	static float translation[] = {0.0, 0.0};
+	ImGui::SliderFloat2("Position", translation, -1.0, 1.0);
+	ImGui::End();
 
-		// Render dear ImGui onto the screen
-		ImGui::Render();
-		ImGui_ImplOpenGL3_RenderDrawData(ImGui::GetDrawData());
+	// Render dear ImGui onto the screen
+	ImGui::Render();
+	ImGui_ImplOpenGL3_RenderDrawData(ImGui::GetDrawData());
 
-		int display_w, display_h;
-		glfwGetFramebufferSize(window, &display_w, &display_h);
-		glViewport(0, 0, display_w, display_h);
-		glfwSwapBuffers(window);
-	}
-	ImGui_ImplOpenGL3_Shutdown();
-	ImGui::DestroyContext();
+	int display_w, display_h;
+	glfwGetFramebufferSize(window, &display_w, &display_h);
+	glViewport(0, 0, display_w, display_h);
+	glfwSwapBuffers(window);
+}
+ImGui_ImplOpenGL3_Shutdown();
+ImGui::DestroyContext();
 
 ```
 
