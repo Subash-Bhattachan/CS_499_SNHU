@@ -66,7 +66,7 @@ So what I learnt through the whole process is that the software design and devel
 
 ![New Project (6) (1)](https://user-images.githubusercontent.com/73665341/101970800-a883ba00-3bfa-11eb-8df2-e2877dd31361.jpg)
 
-#### >View On GitHub
+`View On GitHub`
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Subash-Bhattachan/CS_499_SNHU.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
