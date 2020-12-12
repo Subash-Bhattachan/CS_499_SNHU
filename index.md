@@ -1,4 +1,4 @@
-### ```Professional Self-Assessment```
+### Professional Self-Assessment
 
 Always been fond of creating things, designing or exploring the various ranges of creativity, I have been a visual person with strong liking for colors, graphics or details. While coding did not interest me at all back home, most probably, because I was conveniently unaware about computer science field and its scope during those periods, but this viewpoint took a complete turn as time went by. In the meantime, I moved to the United States and I sensed a need to update my career prospects for the better job security and satisfaction. I decided to further my studies.  
 
@@ -66,7 +66,7 @@ So what I learnt through the whole process is that the software design and devel
 
 ![New Project (6) (1)](https://user-images.githubusercontent.com/73665341/101970800-a883ba00-3bfa-11eb-8df2-e2877dd31361.jpg)
 
-#### View On GitHub
+#### >View On GitHub
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Subash-Bhattachan/CS_499_SNHU.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
