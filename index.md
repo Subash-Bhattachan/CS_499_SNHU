@@ -17,7 +17,7 @@ With time and my studying at SNHU, my thinking about my impending career plan ha
 
 ### Final Portfolio Summary
 
-While picking the artifacts for my ePortfolio, I was guided by this desire to explore those areas in all three categories that I have never been to such that I can investigate some opportunities that would be appealing for others to review as well. A common theme running throughout my artifacts enhancements is about being visual and/ or interactive. I have even named the intended enhancements separately to display the intent in each of the cases. 
+While picking the artifacts for my ePortfolio, I was guided by this desire to explore those areas in all three categories that I have never been to and that I can investigate some opportunities that would be appealing for others to review as well. A common theme running throughout my artifacts enhancements is about being visual and/ or interactive. I have named the proposed enhancements separately to display the intent in each of the cases that are being discussed as follows. 
 
 _Controlling the ram head through GUI_ 
 
