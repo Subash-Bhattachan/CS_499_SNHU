@@ -60,11 +60,7 @@ For the Software Design/ Engineering category, the artifact that I picked is the
 
 The reason I selected this artifact for my final project was because I thought I could expand on the complexity of the application that I created for the class CS 330. I, as well intend to improve this application further by involving the users in some way as before everything was in code and it was only the programmers who know how to navigate around the ram head or how to change the settings of navigation to one’s desires. The specific components of the artifact that showcase my skills and abilities in software development would be the preparations of the environment in terms of Eclipse IDE that were conducted before even introducing the idea of GUI to the whole picture. There were lot of research and analysis done to set the environment by downloading the correct header libraries and then placing them in the right positions to start designing GUI of my choice. I downloaded the ImGui library and wrote specific ImGui functions to facilitate the graphical user interface in the otherwise quite static and closed application but have to admit that I struggled a lot to get the library work correctly. 
 
-I faced a lot of challenges while carrying out this project. The first one was having to download the software application with all required libraries and folders, and this was after the class was over and done with. Once the application was up and running, then I had to go through old tutorials and do a lot of reading to understand what was being done in my old assignments. After this, I had to study a lot about how to create a GUI over the screen that holds a 3d object already. I came to know there were many GUI libraries that one can use, but some of them that topped the list were Dear ImGui, FlatGui, GLUI etc. After this, I downloaded ImGui as it looked like the most preferred option.
-
-The header files were quite complicated to understand in one attempt. In case of ImGui, I came to learn that the here the header files and some selected source files have to be together in the same folder for me to be able to use some of the Gui functions in code and avoid any ‘undefined references’. I understood the strategy to create Gui and all the required artifacts within the interface, but the preliminary actions that I was required to take before even starting to code Gui is what took me so much time. Now my IDE is reading out an error message saying that it cannot find -lglfw library, and it is there but with a different name glfw3. 
-
-So what I learnt through the whole process is that the software design and development is not an easy process to talk about and especially when you are the only one in the design and development process setting goals and making decisions. I also learnt about the importance of all the preliminary steps that need to be carried out to get the software application working to your desire. It maybe because I lack professional experience and aimed for some bigger project goals that I faced some serious challenges, but eventually I scaled back to see if I can create a simple functioning Gui for this project. The picture below is the intended result of this enhancement.
+The picture below is the intended result of this enhancement.
 
 ![New Project (6) (1)](https://user-images.githubusercontent.com/73665341/101970800-a883ba00-3bfa-11eb-8df2-e2877dd31361.jpg)
 
@@ -130,7 +126,13 @@ ImGui::DestroyContext();
 
 ```
 
-```View On GitHub```
+I faced a lot of challenges while carrying out this project. The first one was having to download the software application with all required libraries and folders, and this was after the class was over and done with. Once the application was up and running, then I had to go through old tutorials and do a lot of reading to understand what was being done in my old assignments. After this, I had to study a lot about how to create a GUI over the screen that holds a 3d object already. I came to know there were many GUI libraries that one can use, but some of them that topped the list were Dear ImGui, FlatGui, GLUI etc. After this, I downloaded ImGui as it looked like the most preferred option.
+
+The header files were quite complicated to understand in one attempt. In case of ImGui, I came to learn that the here the header files and some selected source files have to be together in the same folder for me to be able to use some of the Gui functions in code and avoid any ‘undefined references’. I understood the strategy to create Gui and all the required artifacts within the interface, but the preliminary actions that I was required to take before even starting to code Gui is what took me so much time. Now my IDE is reading out an error message saying that it cannot find -lglfw library, and it is there but with a different name glfw3. 
+
+So what I learnt through the whole process is that the software design and development is not an easy process to talk about and especially when you are the only one in the design and development process setting goals and making decisions. I also learnt about the importance of all the preliminary steps that need to be carried out to get the software application working to your desire. It maybe because I lack professional experience and aimed for some bigger project goals that I faced some serious challenges, but eventually I scaled back to see if I can create a simple functioning Gui for this project. 
+
+[View On GitHub]()
 
 <p>&nbsp;</p>
 
