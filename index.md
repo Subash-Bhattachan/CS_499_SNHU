@@ -14,6 +14,7 @@ In addition to all these, some of the other worth mentioning classes that came a
 With time and my studying at SNHU, my thinking about my career plan has evolved for sure. Now I have realized that there are so many routes that as a computer science professional I can take and not be restricted or limited to one area of specialization only. With so much strength and skills that I have garnered from taking several classes, some of which I have discussed in the above paragraphs, I feel I am now prepared to enter the professional scene of the computer science field and contribute in the most productive way possible. Though I intend to pursue my career choices in computer graphics direction, Artificial Intelligence, Game Design and Software Engineering also fascinate my imaginations a lot. I hope in future, I will be able to somehow combine my love for creative expositions with programming skills in one or couple of these specialization areas of Computer Science. 
 
 ### Final Portfolio Summary
+
 **_Controlling the ram head through GUI_** 
 
 For the Software Design and Engineering category, I have chosen to go with a project from the course CS 330: Computational Graphics and Visualization. The project for this class ended with writing code for the ram head with a texture and giving some control to users to zoom in and out and turn horizontally and vertically. My enhancement plan is to develop GUI so to display to users the instructions to maneuver around the ram head and the settings to adjust the position and the rotational degree of the head as well. The intent is to make the codes look less intimidating but more playful for users with non-technical background. 
@@ -67,6 +68,31 @@ So what I learnt through the whole process is that the software design and devel
 #### View On GitHub
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Subash-Bhattachan/CS_499_SNHU.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Algorithms and Data Structure
 
@@ -149,27 +175,4 @@ Challenges I faced:
 
 #### View On GitHub
 
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
