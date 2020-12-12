@@ -43,10 +43,9 @@ You can use the [editor on GitHub](https://github.com/Subash-Bhattachan/CS_499_S
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Informal Code Review
+
 {% include youtubePlayer.html id="TojNUorxNjE" %}
-
-
-
+A code review of the work that will serve as the starting point for all the intended enhancements for the ePortfolio presented here.
 
 
 
