@@ -1,4 +1,4 @@
-## Professional Self-Assessment
+### Professional Self-Assessment
 Always been fond of creating things, designing or exploring the various ranges of creativity, I have been a visual person with strong liking for colors, graphics or details. While coding did not interest me at all back home, most probably, because I was conveniently unaware about computer science field and its scope during those periods, but this viewpoint took a complete turn as time went by. In the meantime, I moved to the United States and I sensed a need to update my career prospects for the better job security and satisfaction. I decided to further my studies.  
 
 Coming to SNHU, I realized the courses that were based on visual exposition captivated me a lot and some of them were namely CS 330: Computational Graphics and Visualization where I learnt about creating three-dimensional objects using OpenGL language, API libraries and computer graphics development best practices. The class also equipped me with knowledge to create interactive graphics applications that would allow navigation around the three-dimensional object created. Another class that fascinated me was IT 315: Object Oriented Analysis and Design, where I learnt to apply object-oriented techniques and methods in analyzing and designing software systems. Precisely, I learnt to create UML functional, structural and behavioral models that are clearly articulated and based on software system requirements. I discovered that a whole software application can be illustrated in the relevant UML diagrams. Subsequently, I realized that a software developer can contribute to the development of computer graphics and for myself, as an aspiring computer science professional, I can pursue this field as a career choice as well.  
@@ -13,7 +13,7 @@ Some of the worth mentioning classes that came along my way are IT 145: Foundati
 
 With time and my studying at SNHU, my thinking about my career plan has evolved for sure. Now I have realized that there are so many routes that as a computer science professional I can take and not be restricted or limited to one area of specialization only. With so much strength and skills that I have garnered from taking several classes, some of which I have discussed in the above paragraphs, I feel I am now prepared to enter the professional scene of the computer science field and contribute in the most productive way possible. Though I intend to pursue my career choices in computer graphics direction, Artificial Intelligence, Game Design and Software Engineering also fascinate my imaginations a lot. I hope in future, I will be able to somehow combine my love for creative expositions with programming skills in one or couple of these specialization areas of Computer Science. 
 
-### Summary of the improvised artifacts
+### Final Portfolio Summary
 Controlling the ram head through GUI 
 
 For the Software Design and Engineering category, I have chosen to go with a project from the course CS 330: Computational Graphics and Visualization. The project for this class ended with writing code for the ram head with a texture and giving some control to users to zoom in and out and turn horizontally and vertically. My enhancement plan is to develop GUI so to display to users the instructions to maneuver around the ram head and the settings to adjust the position and the rotational degree of the head as well. The intent is to make the codes look less intimidating but more playful for users with non-technical background. 
@@ -42,7 +42,7 @@ You can use the [editor on GitHub](https://github.com/Subash-Bhattachan/CS_499_S
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Code Review
+### Informal Code Review
 {% include youtubePlayer.html id="TojNUorxNjE" %}
 
 
@@ -50,7 +50,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-### Enhancement One
+### Software Design and Engineering
 
 For the Software Design/ Engineering category, the artifact that I picked is the ram head modeling and navigation from the class CS 330: Computational Graphics and Visualization. This artifact was created to showcase an example of an organized geometry with low-polygon while representing a real-world object. A suitable texture was utilized here and was given a look of a sculpture with appropriate lighting to highlight the ram head’s features.
 
@@ -68,7 +68,7 @@ So what I learnt through the whole process is that the software design and devel
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Subash-Bhattachan/CS_499_SNHU.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Enhancement Two
+### Algorithms and Data Structure
 
 The artifact chosen for Enhancement Two: Algorithms and Data Structure is RESTful (API) web-based protocol from CS 340: Advanced Programming Concepts. This framework was here enabled with specific CRUD functionality and is tested and validated by using URIs linked in the prompt. Also, a web service application was developed to implement the RESTful API for a MongoDB database and this involved some advanced querying. 
 
@@ -92,7 +92,7 @@ The challenges I faced while making this simple application was trying to get ho
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### Enhancment Three
+### Database
 The artifact chosen for Enhancement Three: Databases is MongoDB concepts from CS 340: Advanced Programming Concepts. The artifact precisely is the ‘city_inspections.json’ file that was used extensively throughout the term along with other JSON files to carry out various exercises. Below is a glimpse of how it looked online before we tried to make it readable by querying through Mongo in the command prompt. 
 
 ![6](https://user-images.githubusercontent.com/73665341/101971792-e0423000-3c01-11eb-93dc-63bc7bce75a7.JPG)
