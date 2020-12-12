@@ -1,4 +1,4 @@
-### ``Professional Self-Assessment``
+### ```Professional Self-Assessment```
 
 Always been fond of creating things, designing or exploring the various ranges of creativity, I have been a visual person with strong liking for colors, graphics or details. While coding did not interest me at all back home, most probably, because I was conveniently unaware about computer science field and its scope during those periods, but this viewpoint took a complete turn as time went by. In the meantime, I moved to the United States and I sensed a need to update my career prospects for the better job security and satisfaction. I decided to further my studies.  
 
