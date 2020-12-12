@@ -49,6 +49,7 @@ _A code review of the work that will serve as the starting point for all the int
 
 
 
+
 ### Software Design and Engineering
 
 For the Software Design/ Engineering category, the artifact that I picked is the ram head modeling and navigation from the class CS 330: Computational Graphics and Visualization. This artifact was created to showcase an example of an organized geometry with low-polygon while representing a real-world object. A suitable texture was utilized here and was given a look of a sculpture with appropriate lighting to highlight the ram head’s features.
@@ -63,7 +64,7 @@ So what I learnt through the whole process is that the software design and devel
 
 ![New Project (6) (1)](https://user-images.githubusercontent.com/73665341/101970800-a883ba00-3bfa-11eb-8df2-e2877dd31361.jpg)
 
-
+#### View On GitHub
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Subash-Bhattachan/CS_499_SNHU.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
@@ -87,7 +88,7 @@ Following are the screenshot of the code snippets in Python and the compiled cod
 This is the first time I am making a simple application of some use while using the freely available API on the internet. The process left me thinking more about a lot of other APIs that I may have skipped or missed exploring. The experience taught me that the sky is the limit to what can be done with any API that are just thrown to us at disposal. 
 The challenges I faced while making this simple application was trying to get hold of the appropriate API that can be used in my application. There were several APi’s being offered online that are tracking COVID-19 cases in their own set variables, so it was a struggle for me to get the right API that I can use to create the application I was planning. Some APi’s demand time and understanding to learn how to work around them, and some even required money, but finally I was able to use two of them that met my specifications of the application. Also, I was planning to make a web application somewhere in the line of apps on mobile cell phones, but in the middle, I realized that I have to spend much time to understand the various technical details to make this application web based, but with whatever work I was able to accomplish making it a computer application, I feel motivated to keep working on this application to convert it to a platforms- friendly one and make it more available for everybody meaning even for the audience who are not from the computer science field or technical background. 
 
-
+#### View On GitHub
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
@@ -142,7 +143,7 @@ Challenges I faced:
 
 ![8](https://user-images.githubusercontent.com/73665341/101973062-35327600-3c03-11eb-8ee0-67ca28b1dd20.JPG)
 
-
+#### View On GitHub
 
 
 
