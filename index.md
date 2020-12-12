@@ -252,19 +252,10 @@ def main():
 
     print('Thank you.')
 
-
 if __name__=='__main__':
     main()
-
-
+    
 ```
-
-
-![1](https://user-images.githubusercontent.com/73665341/101971271-1da4be80-3bfe-11eb-951b-4c101bde431e.JPG)
-
-![2](https://user-images.githubusercontent.com/73665341/101971274-20071880-3bfe-11eb-89e7-7ef58f230a7d.JPG)
-
-![4](https://user-images.githubusercontent.com/73665341/101976505-dcb7a480-3c13-11eb-8749-265f9e7882e8.JPG)
 
 Running the program.
 
