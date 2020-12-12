@@ -82,6 +82,10 @@ Following are the screenshot of the code snippets in Python and the compiled cod
 
 ![2](https://user-images.githubusercontent.com/73665341/101971274-20071880-3bfe-11eb-89e7-7ef58f230a7d.JPG)
 
+![4](https://user-images.githubusercontent.com/73665341/101976505-dcb7a480-3c13-11eb-8749-265f9e7882e8.JPG)
+
+Running the program.
+
 ![3](https://user-images.githubusercontent.com/73665341/101971277-22697280-3bfe-11eb-834e-beba1ca1f92d.JPG)
 
 
