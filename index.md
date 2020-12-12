@@ -265,7 +265,7 @@ The challenges I faced while making this simple application was trying to get ho
 
 Also, I was planning to make a web application somewhere in the line of apps on mobile cell phones, but in the middle, I realized that I have to spend much time to understand the various technical details to make this application web based, but with whatever work I was able to accomplish making it a computer application, I feel motivated to keep working on this application to convert it to a platforms- friendly one and make it more available for everybody meaning even for the audience who are not from the computer science field or technical background. 
 
-#### View On GitHub
+#### [View On GitHub] (https://github.com/Subash-Bhattachan/Algorithms-and-Data-Structures)
 
 <p>&nbsp;</p>
 
