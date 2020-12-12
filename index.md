@@ -150,7 +150,6 @@ Following are the screenshot of the code snippets in Python and the compiled cod
 
 import requests
 
-
 # to get information about the international country
 def by_country():
     name = input('Enter country: ')
@@ -173,7 +172,6 @@ def by_country():
     todayCases = data['todayCases']
     todayDeaths = data['todayDeaths']
 
-
     print()
     print('Total Cases : {}'.format(cases))
     print('Total recovered : {}'.format(recovered))
@@ -183,8 +181,6 @@ def by_country():
     print()
     print('Cases registered today : {}'.format(todayCases))
     print('Deaths registered today : {}'.format(todayDeaths))
-
-
 
 
 # to get information of the different states in USA itself
@@ -213,7 +209,6 @@ def by_USstate():
     inIcuCurrently = data['inIcuCurrently']
     onVentilatorCurrently = data['onVentilatorCurrently']
 
-
     print()
     print('Date of the published data : {}'.format(date))
     print('Total Cases : {}'.format(total))
@@ -232,8 +227,6 @@ def main():
     print('Welcome.')
     print('This application uses two specific APIs to bring forth to you,')
     print('the information regarding COVID-19 status around us.')
-        
-    
     choice = ''
 
     while(choice != '3'):
@@ -244,8 +237,7 @@ def main():
         print()
 
         choice = input('Enter your choice : ')
-        
-            
+                
         if choice == '1':
             by_country()
             
