@@ -45,7 +45,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Informal Code Review
 
 {% include youtubePlayer.html id="TojNUorxNjE" %}
-A code review of the work that will serve as the starting point for all the intended enhancements for the ePortfolio presented here.
+_A code review of the work that will serve as the starting point for all the intended enhancements for the ePortfolio presented here._
 
 
 
