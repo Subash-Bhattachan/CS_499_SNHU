@@ -76,11 +76,12 @@ Making a RESTful API grew my interest to know more about how APIs developed by o
 
 For this enhancement plan, I wrote the code in Python with various functionalities that were inspired from CRUD functionality in a developed RESTful API framework and integrated two different APIs to offer two options so as to display the latest information regarding COVID-19 virus to the users. Instead of MongoDB, here this application uses the sea of information offered by the API’s to bring forward the requested information. The specific components of the artifact that showcase my skills and abilities in algorithms and data structure would be the strategies employed to make others’ API work to my desire. As the algorithms used to make the most out of a free API (or data structure) are different than what was used with RESTful API for CS 340, I believe they will successfully highlight my achieved skills and abilities in algorithms and data structure in the process.
 
-UPDATES:
 Following are the screenshot of the code snippets in Python and the compiled code in python shell. The API’s have made it easier and efficient to get the data from anywhere in the world and around the United States quite effortlessly. My understanding of algorithms and data structures got much stronger and informed after making this application. Hopefully the next step in future is to make this application much portable in apps format. I may need more investigations and research to go in that direction. 
 
 ![1](https://user-images.githubusercontent.com/73665341/101971271-1da4be80-3bfe-11eb-951b-4c101bde431e.JPG)
+
 ![2](https://user-images.githubusercontent.com/73665341/101971274-20071880-3bfe-11eb-89e7-7ef58f230a7d.JPG)
+
 ![3](https://user-images.githubusercontent.com/73665341/101971277-22697280-3bfe-11eb-834e-beba1ca1f92d.JPG)
 
 
