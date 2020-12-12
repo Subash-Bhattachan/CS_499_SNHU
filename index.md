@@ -41,12 +41,16 @@ For the Database category, I chose the idea of MongoDB from the course CS 340: A
 
 The enhancement plan illustrates the skills to explore the techniques and tools that help implement computer solutions and help accomplish industry-specific goals. The outcome these skills align to is the presentation of a JSON database in a graphical format using a different tool and a programming language than what were used previously for the class.  
 
+<p>&nbsp;</p>
 
 ### Informal Code Review
 
 {% include youtubePlayer.html id="TojNUorxNjE" %}
 _A code review of the work that will serve as the starting point for all the intended enhancements for the ePortfolio presented here._
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
@@ -128,7 +132,7 @@ ImGui::DestroyContext();
 
 ```View On GitHub```
 
-
+<p>&nbsp;</p>
 
 ### Algorithms and Data Structure
 
@@ -262,6 +266,8 @@ The challenges I faced while making this simple application was trying to get ho
 Also, I was planning to make a web application somewhere in the line of apps on mobile cell phones, but in the middle, I realized that I have to spend much time to understand the various technical details to make this application web based, but with whatever work I was able to accomplish making it a computer application, I feel motivated to keep working on this application to convert it to a platforms- friendly one and make it more available for everybody meaning even for the audience who are not from the computer science field or technical background. 
 
 #### View On GitHub
+
+<p>&nbsp;</p>
 
 ### Database
 The artifact chosen for Enhancement Three: Databases is MongoDB concepts from CS 340: Advanced Programming Concepts. The artifact precisely is the ‘city_inspections.json’ file that was used extensively throughout the term along with other JSON files to carry out various exercises. Below is a glimpse of how it looked online before we tried to make it readable by querying through Mongo in the command prompt. 
