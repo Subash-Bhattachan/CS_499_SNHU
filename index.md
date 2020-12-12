@@ -75,24 +75,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-
 
 	//glfwMakeContextCurrent(window);
 	if (!glfwInit()) {exit(EXIT_FAILURE);}
@@ -112,7 +94,6 @@ Syntax highlighted code block
 	// Setup Dear ImGui style
 	ImGui::StyleColorsDark();
 
-
 	// loop until the user closes the window
 	while (!glfwWindowShouldClose(window))
 	{
@@ -126,8 +107,9 @@ Syntax highlighted code block
 
 		// rendering a simple GUI that offers control to users (over the ram head)
 		ImGui::Begin("Ram Head Rotation/ Position");
-		ImGui::Text("Hello, press the ALT key and left mouse button to rotate the ram head horizontally"
-				"and ALT key and right mouse button to zoom in and out.");
+		ImGui::Text("Hello, press the ALT key and left mouse button to rotate" 
+			    "the ram head horizontally and ALT key and right mouse"
+			    "button to zoom in and out.");
 
 		const float PI = 3.1415927;
 		static float rotation = 0.0;
@@ -145,15 +127,9 @@ Syntax highlighted code block
 		glfwGetFramebufferSize(window, &display_w, &display_h);
 		glViewport(0, 0, display_w, display_h);
 		glfwSwapBuffers(window);
-
 	}
-
 	ImGui_ImplOpenGL3_Shutdown();
 	ImGui::DestroyContext();
-
-
-
-
 
 ```
 
