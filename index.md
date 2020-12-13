@@ -48,7 +48,7 @@ The enhancement plan illustrates the skills to explore the techniques and tools 
 ### Informal Code Review
 
 {% include youtubePlayer.html id="TojNUorxNjE" %}
-<span style="font-size:0.8em;">A code review of the work that will serve as the starting point for all the intended enhancements for the ePortfolio presented here.</span>
+<span style="font-size:0.9em;">A review of the work that serves as the starting point for all the intended enhancements for the ePortfolio.</span>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -128,11 +128,11 @@ ImGui::DestroyContext();
 
 ```
 
-I faced a lot of challenges while carrying out this project. The first one was having to download the software application with all required libraries and folders, and this was after the class was over and done with. Once the application was up and running, then I had to go through old tutorials and do a lot of reading to understand what was being done in my old assignments. After this, I had to study a lot about how to create a GUI over the screen that holds a 3d object already. I came to know there were many GUI libraries that one can use, but some of them that topped the list were Dear ImGui, FlatGui, GLUI etc. After this, I downloaded ImGui as it looked like the most preferred option.
+I faced a lot of challenges while carrying out this project. The first one was having to download the software application with all required libraries and folders, and this was after the class was over and done with. Once the application was up and running, then I had to go through old tutorials and do a lot of readings to understand what were being done in my old assignments. After this, I had to study a lot about how to create a GUI over the screen that holds a 3d object already. I came to know there were many GUI libraries that one can use, but some of them that topped the list were Dear ImGui, FlatGui, GLUI etc. After this, I downloaded ImGui as it looked like the most preferred option.
 
-The header files were quite complicated to understand in one attempt. In case of ImGui, I came to learn that the here the header files and some selected source files have to be together in the same folder for me to be able to use some of the Gui functions in code and avoid any ‘undefined references’. I understood the strategy to create Gui and all the required artifacts within the interface, but the preliminary actions that I was required to take before even starting to code Gui is what took me so much time. Now my IDE is reading out an error message saying that it cannot find -lglfw library, and it is there but with a different name glfw3. 
+The header files were quite complicated to understand in one attempt. In case of ImGui, I came to learn that the here the header files and some selected source files have to be together in the same folder for me to be able to use some of the Gui functions in code and avoid any ‘undefined references’. I understood the strategy to create Gui and all the required artifacts within the interface, but the preliminary actions that I was required to take before even starting to code Gui is what took me so much time. Now my IDE is reading out an error message saying that it cannot find -lglfw library, though it seems to be there but with a different name, glfw3. 
 
-So what I learnt through the whole process is that the software design and development is not an easy process to talk about and especially when you are the only one in the design and development process setting goals and making decisions. I also learnt about the importance of all the preliminary steps that need to be carried out to get the software application working to your desire. It maybe because I lack professional experience and aimed for some bigger project goals that I faced some serious challenges, but eventually I scaled back to see if I can create a simple functioning Gui for this project. 
+So what I have learnt through the whole process is that the software design and development is not an easy process to talk about, especially when you are the only one in the design and development process setting goals and making decisions. I also learnt about the importance of all the preliminary steps that need to be carried out to get the software application working to your desire. It maybe because I lack professional experience and aimed for some bigger project goals that I faced some serious challenges, but eventually I scaled back to see if I can create a simple functioning Gui for this project.
 
 [View On GitHub](https://github.com/Subash-Bhattachan/Software-Design-and-Engineering){:target="_blank"}
 
