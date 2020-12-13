@@ -134,7 +134,7 @@ The header files were quite complicated to understand in one attempt. In case of
 
 So what I have learnt through the whole process is that the software design and development is not an easy process to talk about, especially when you are the only one in the design and development process setting goals and making decisions. I also learnt about the importance of all the preliminary steps that need to be carried out to get the software application working to your desire. It maybe because I lack professional experience and aimed for some bigger project goals that I faced some serious challenges, but eventually I scaled back to see if I can create a simple functioning Gui for this project.
 
-:point_right:[View On GitHub](https://github.com/Subash-Bhattachan/Software-Design-and-Engineering){:target="_blank"}
+:point_right: [View On GitHub](https://github.com/Subash-Bhattachan/Software-Design-and-Engineering){:target="_blank"}
 
 <p>&nbsp;</p>
 
