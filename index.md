@@ -21,7 +21,7 @@ With time and my studying at SNHU, my thinking about my impending career plan ha
 
 While picking the artifacts for my ePortfolio, I was guided by this desire to explore those areas in all three categories that I have never been to and that I can investigate for some opportunities that would be appealing even for others to review as well. A common theme running throughout my artifacts enhancements is about being visual and/ or interactive. I have named the proposed enhancements separately to display the intent in each of the cases that are being discussed as follows. 
 
-_Controlling a ram head through GUI_ 
+<span style="font-family:Papyrus">_Controlling a ram head through GUI_</span> 
 
 For the Software Design and Engineering category, I chose to go with a project from the course CS 330: Computational Graphics and Visualization. The project for this class ended with writing code for a ram head with a texture and giving some control to users to zoom in and out and turn horizontally and vertically. My enhancement plan is to develop GUI so to display to users the instructions to maneuver around the ram head and the settings to adjust the position and the rotational degree of the head as well. The intent is to make the codes look less intimidating but more playful for users of every background. 
 
