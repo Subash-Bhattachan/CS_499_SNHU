@@ -262,13 +262,8 @@ if __name__=='__main__':
 
 Running the program.
 
-![3](https://user-images.githubusercontent.com/73665341/101971277-22697280-3bfe-11eb-834e-beba1ca1f92d.JPG)
-
 ```python
-Python 3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
->>> 
-= RESTART: C:\Users\bash_\OneDrive\Desktop\Algorithms and Data Structures\Covid.py
+
 Welcome.
 This application uses two specific APIs to bring forth to you,
 the information regarding COVID-19 status around us.
