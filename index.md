@@ -46,10 +46,11 @@ The enhancement plan illustrates the skills to explore the techniques and tools 
 <p>&nbsp;</p>
 
 ### Informal Code Review
-<p>&nbsp;</p>
+
 {% include youtubePlayer.html id="TojNUorxNjE" %}
 <span style="font-size:0.9em;">A review of the work that serves as the starting point for all the intended enhancements for the ePortfolio.</span>
 
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
