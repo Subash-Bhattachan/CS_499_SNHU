@@ -264,6 +264,57 @@ Running the program.
 
 ![3](https://user-images.githubusercontent.com/73665341/101971277-22697280-3bfe-11eb-834e-beba1ca1f92d.JPG)
 
+```python
+Python 3.9.0 (tags/v3.9.0:9cf6752, Oct  5 2020, 15:34:40) [MSC v.1927 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\bash_\OneDrive\Desktop\Algorithms and Data Structures\Covid.py
+Welcome.
+This application uses two specific APIs to bring forth to you,
+the information regarding COVID-19 status around us.
+
+1. Get data by country
+2. Get data by US state
+3. Exit
+
+Enter your choice : 1
+Enter country: nepal
+
+Total Cases : 247593
+Total recovered : 234231
+Total active : 11673
+Total critical : 0
+TOtal deaths : 1689
+
+Cases registered today : 0
+Deaths registered today : 0
+
+1. Get data by country
+2. Get data by US state
+3. Exit
+
+Enter your choice : 2
+Enter the state in USA: ny
+
+Date of the published data : 20201212
+Total Cases : 21757045
+Total recovered : 90747
+Total hospitalized : 89995
+Total hospitalized increase : 0
+Total deaths : 27675
+Total increase in deaths : 88
+
+Total hospitalized today : 5359
+Total in ICU today : 1029
+Total on ventilator today : 563
+
+1. Get data by country
+2. Get data by US state
+3. Exit
+
+Enter your choice : 
+
+```
 
 This is the first time I am making a simple application of some use while using the freely available API on the internet. The process left me thinking more about a lot of other APIs that I may have skipped or missed exploring. The experience taught me that the sky is the limit to what can be done with any API that are just thrown to us at disposal. 
 The challenges I faced while making this simple application was trying to get hold of the appropriate API that can be used in my application. There were several APi’s being offered online that are tracking COVID-19 cases in their own set variables, so it was a struggle for me to get the right API that I can use to create the application I was planning. Some APi’s demand time and understanding to learn how to work around them, and some even required money, but finally I was able to use two of them that met my specifications of the application. 
