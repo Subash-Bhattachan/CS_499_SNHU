@@ -59,7 +59,7 @@ The enhancement plan illustrates the skills to explore the techniques and tools 
 
 ### Software Design and Engineering
 
-For the Software Design/ Engineering category, the artifact that I picked is the ram head modeling and navigation from the class CS 330: Computational Graphics and Visualization. This artifact was created to showcase an example of an organized geometry with low-polygon while representing a real-world object. A suitable texture was utilized here and was given a look of a sculpture with appropriate lighting to highlight the ram head’s features.
+For the Enhancement One: Software Design/ Engineering category, the artifact that I picked is the ram head modeling and navigation from the class CS 330: Computational Graphics and Visualization. This artifact was created to showcase an example of an organized geometry with low-polygon while representing a real-world object. A suitable texture was utilized here and was given a look of a sculpture with appropriate lighting to highlight the ram head’s features.
 
 The reason I selected this artifact for my final project was because I thought I could expand on the complexity of the application that I created for the class CS 330. I, as well intend to improve this application further by involving the users in some way as before everything was in code and it was only the programmers who know how to navigate around the ram head or how to change the settings of navigation to one’s desires. The specific components of the artifact that showcase my skills and abilities in software development would be **the preparations of the environment** in terms of Eclipse IDE that were conducted before even introducing the idea of GUI to the whole picture. There were lot of research and analysis done to set the environment by downloading the correct header libraries and then placing them in the right positions to start designing GUI of my choice. I downloaded the ImGui library and wrote specific ImGui functions to facilitate the graphical user interface in the otherwise quite static and closed application but have to admit that I spent a lot of time to just get the library work correctly. 
 
@@ -141,7 +141,7 @@ So what I have learnt through the whole process is that the software design and 
 
 ### Algorithms and Data Structure
 
-The artifact chosen for Enhancement Two: Algorithms and Data Structure is RESTful (API) web-based protocol from CS 340: Advanced Programming Concepts. This framework was here enabled with specific CRUD functionality and is tested and validated by using URIs linked in the prompt. Also, a web service application was developed to implement the RESTful API for a MongoDB database and this involved some advanced querying. 
+The artifact chosen for the Enhancement Two: Algorithms and Data Structure is RESTful (API) web-based protocol from CS 340: Advanced Programming Concepts. This framework was here enabled with specific CRUD functionality and is tested and validated by using URIs linked in the prompt. Also, a web service application was developed to implement the RESTful API for a MongoDB database and this involved some advanced querying. 
 
 Making a RESTful API grew my interest to know more about how APIs developed by other resources would function and what kind of benefits can one take out of them. I selected this artifact because as a computer science student, I got inspired to explore further on this whole idea of creating API artifact and see now if I can use freely available APIs and independently make any application that can be of some use to general people. Though I did mention in my first refinement plan of displaying visual information through the application designed but had to scale back after learning that it might require some dedicated studying and application development planning to add the visual factor to the whole presentation of database extracted from API. Hopefully this will be my future project I will pursue later on.
 
@@ -321,7 +321,7 @@ Also, I was planning to make a web application somewhere in the line of apps on 
 <p>&nbsp;</p>
 
 ### Database
-The artifact chosen for Enhancement Three: Databases is MongoDB concepts from CS 340: Advanced Programming Concepts. The artifact precisely is the ‘city_inspections.json’ file that was used extensively throughout the term along with other JSON files to carry out various exercises. Below is a glimpse of how it looked online before we tried to make it readable by querying through Mongo in the command prompt. 
+The artifact chosen for the Enhancement Three: Databases is MongoDB concepts from CS 340: Advanced Programming Concepts. The artifact precisely is the ‘city_inspections.json’ file that was used extensively throughout the term along with other JSON files to carry out various exercises. Below is a glimpse of how it looked online before we tried to make it readable by querying through Mongo in the command prompt. 
 
 ![6](https://user-images.githubusercontent.com/73665341/101971792-e0423000-3c01-11eb-93dc-63bc7bce75a7.JPG)
  
